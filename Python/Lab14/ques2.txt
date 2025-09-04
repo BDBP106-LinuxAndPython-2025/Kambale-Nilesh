@@ -1,0 +1,21 @@
+
+
+
+>>> a=1
+>>> b=2
+>>> c=4
+
+(i) a and b
+>>> a and b
+2
+
+(ii) not a<b or c>b
+>>> type(complex(a,b+c).real)
+<class 'float'>
+
+
+(iii) type(complex(a,b+c).real) is int
+>>> type(complex(a,b+c).real) is int
+False
+>>>
+

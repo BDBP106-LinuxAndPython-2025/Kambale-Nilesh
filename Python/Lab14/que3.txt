@@ -1,0 +1,11 @@
+# Input two integers k,n
+# Output arithmetic operation between k and n 
+
+k=1
+n=10
+summ=k+n
+diff=k-n
+product=k*n
+intdiv=k/n
+expo=k**n
+mod=k%n
