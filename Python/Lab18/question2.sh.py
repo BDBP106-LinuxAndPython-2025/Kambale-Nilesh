@@ -16,3 +16,5 @@ for i in a:
             c.append(i)
 print(c)
 
+#d=[ i for i in a  for j in b if i==j ]
+#print(d)
