@@ -1,0 +1,1 @@
+ function fahrenheite was called 5 Times
